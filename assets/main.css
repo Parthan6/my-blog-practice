@@ -20,3 +20,16 @@ header {
   margin-bottom: 20px;
 }
 
+.footer-widgets {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #f4f4f4;
+  padding: 40px;
+  justify-content: space-between;
+  border-top: 1px solid #ccc;
+}
+
+.footer-widget {
+  flex: 1 1 200px;
+  margin: 10px;
+}
