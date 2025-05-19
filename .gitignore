@@ -3,7 +3,7 @@
 Thumbs.db
 
 # Log and temp files
-*.log
+temp.log
 
 # Build artifacts
 dist/
