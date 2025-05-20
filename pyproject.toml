@@ -1,2 +1,4 @@
-# pyproject.toml
+
+name = "my-blog-practice"
 version = "0.1.1"
+description = "My blog project"
